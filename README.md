@@ -1,17 +1,20 @@
-# 💫 About Me:
-# 🦥 cybersecsloth but some stole the github handle so i am thehackersloth here<br><br>> Just a tired hacker trying to automate the future... one exploit and AI model at a time.<br><br>## 🧠 About Me<br><br>- 🛠️ Hacker | AI Tinkerer | Cert Junkie<br>- 📜 Holder of certs that even I’m too exhausted to list anymore.<br>- 🔒 Offensive Security, Cybersecurity Ops, Infra Automation<br>- 🧬 I experiment with AI like it's a chemistry set.<br>- 💤 Usually sleep-deprived, always caffeinated.<br><br>## 🔍 What I'm Working On<br><br>- 🤖 Building offensive/defensive hybrid AI tools<br>- 🕵️‍♂️ Creating custom scripts for red team automation<br>- 🌐 Developing decentralized tools for the paranoid (yes, you)<br>- 🧪 Prototyping weird stuff with LLMs and secure environments<br>- 🧰 Forking, breaking, and rebuilding useful open-source junk<br><br>## e<br><br>If I helped you or you stole my code, buy me a coffee or don't — I’ll still be here hacking.<br><br>---<br><br>🦥 _Move slow. Break everything. Rebuild better._
+```
+ ██████╗██╗   ██╗██████╗ ███████╗██████╗ ███████╗███████╗ ██████╗███████╗██╗      ██████╗ ████████╗██╗  ██╗
+██╔════╝╚██╗ ██╔╝██╔══██╗██╔════╝██╔══██╗██╔════╝██╔════╝██╔════╝██╔════╝██║     ██╔═══██╗╚══██╔══╝██║  ██║
+██║      ╚████╔╝ ██████╔╝█████╗  ██████╔╝███████╗█████╗  ██║     ███████╗██║     ██║   ██║   ██║   ███████║
+██║       ╚██╔╝  ██╔══██╗██╔══╝  ██╔══██╗╚════██║██╔══╝  ██║     ╚════██║██║     ██║   ██║   ██║   ██╔══██║
+╚██████╗   ██║   ██████╔╝███████╗██║  ██║███████║███████╗╚██████╗███████║███████╗╚██████╔╝   ██║   ██║  ██║
+ ╚═════╝   ╚═╝   ╚═════╝ ╚══════╝╚═╝  ╚═╝╚══════╝╚══════╝ ╚═════╝╚══════╝╚══════╝ ╚═════╝    ╚═╝   ╚═╝  ╚═╝
+```
 
+<br>
 
-## 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/https://bsky.app/profile/cybersecsloth.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/cybersecsloth/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/cybersecsloth) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cybersecsloth@proton.me) 
+```rm -rf / && echo "oops"```
 
-# 💻 Tech Stack:
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+<br><br>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=thehackersloth&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <a href="mailto:cybersecsloth@proton.me">proton</a> ·
+  <a href="https://x.com/cybersecsloth">x</a> ·
+  <a href="https://www.linkedin.com/in/cybersecsloth/">linkedin</a>
+</p>
